@@ -53,16 +53,16 @@ A full-stack web application that accepts a CSV of companies, enriches each comp
 
 ## Tech Stack — All Free Tiers
 
-| Component | Technology | Free Tier |
-|---|---|---|
-| Framework | Next.js 14 (App Router) | — |
-| Website Scraping | Jina Reader (`r.jina.ai`) | Unlimited, no key |
-| Search Data | Serper.dev | 2,500 queries |
-| News Data | NewsAPI.org + Serper News | 100/day + shared |
-| AI Processing | Google Gemini 2.0 Flash | 15 RPM, 1M TPM |
-| Email | Resend | 100 emails/day |
-| Deployment | Render.com | Free tier |
-| Containerization | Docker | — |
+| Component | Technology |
+|---|---|
+| Framework | Next.js 14 (App Router) |
+| Website Scraping | Jina Reader (`r.jina.ai`) |
+| Search Data | Serper.dev |
+| News Data | NewsAPI.org + Serper News |
+| AI Processing | Google Gemini & Groq |
+| Email | Resend |
+| Deployment | Render.com |
+| Containerization | Docker |
 
 ## Quick Start
 
