@@ -6,7 +6,7 @@ A full-stack web application that accepts a CSV of companies, enriches each comp
 
 ## Live Demo
 
-> **Deployed URL:** _(add after deploying)_
+> **Deployed URL:** https://ai-driven-lead-enrichment-pipeline.onrender.com/
 
 ## Architecture
 
